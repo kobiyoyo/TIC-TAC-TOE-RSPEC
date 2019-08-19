@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require_relative './cell.rb'
 require_relative './my_array.rb'
 class Board
