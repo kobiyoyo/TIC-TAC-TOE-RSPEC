@@ -22,6 +22,7 @@ See [Game Rules & Strategy](https://en.wikipedia.org/wiki/Tic-tac-toe).
 ## Technologies
 
 - Ruby
+- Rspec
 - TDD
 
 
