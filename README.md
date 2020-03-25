@@ -1,5 +1,5 @@
 # Tic Tac Toe (Advanced OOP)
-[![Maintainability](https://api.codeclimate.com/v1/badges/3bfc715fd77078350878/maintainability)](https://codeclimate.com/github/kobiyoyo/TIC-TAC-TOE-RSPEC/maintainability)[![Test Coverage](https://api.codeclimate.com/v1/badges/3bfc715fd77078350878/test_coverage)](https://codeclimate.com/github/kobiyoyo/TIC-TAC-TOE-RSPEC/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/3bfc715fd77078350878/maintainability)](https://codeclimate.com/github/kobiyoyo/TIC-TAC-TOE-RSPEC/maintainability)   [![Test Coverage](https://api.codeclimate.com/v1/badges/3bfc715fd77078350878/test_coverage)](https://codeclimate.com/github/kobiyoyo/TIC-TAC-TOE-RSPEC/test_coverage)
 
 
 
