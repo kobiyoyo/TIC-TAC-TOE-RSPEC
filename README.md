@@ -1,4 +1,8 @@
 # Tic Tac Toe (Advanced OOP)
+[![Maintainability](https://api.codeclimate.com/v1/badges/3bfc715fd77078350878/maintainability)](https://codeclimate.com/github/kobiyoyo/TIC-TAC-TOE-RSPEC/maintainability)[![Test Coverage](https://api.codeclimate.com/v1/badges/3bfc715fd77078350878/test_coverage)](https://codeclimate.com/github/kobiyoyo/TIC-TAC-TOE-RSPEC/test_coverage)
+
+
+
 This project implements advanced object oriented programming concepts to build a simple [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) game played on the Command Line Interface (CLI)
 
 This project was completed in line with standards provided by [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
@@ -71,6 +75,11 @@ $ ruby main.rb
 
 > Follow the instructions provided by the Game.
 
+## Running the tests
+> Run command
+```sh
+$ rspec
+```
 ## Authors
 
 👤 **Adama Chubiyojo Desmond**
